@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.FrmFileName.resources
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.FrmLab1.resources
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\bin\Debug\TextFile.exe.config
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\bin\Debug\TextFile.exe
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\bin\Debug\TextFile.pdb
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.exe
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.pdb
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\Documents\Barzaga\TextFile\obj\Debug\TextFile.FrmStudentRecord.resources
